@@ -46,7 +46,7 @@ My focus is on combining **Network Engineering + Network Security + Cloud Networ
 
 ## 🤝 Connect With Me
 
-- GitHub: [Your GitHub Profile URL]([https://github.com/akashyadav1710))
-- LinkedIn: [Your LinkedIn Profile URL]([https://www.linkedin.com](https://www.linkedin.com/in/akash-yadav-886141214/)/)
+- GitHub: https://github.com/akashyadav1710
+- LinkedIn: https://www.linkedin.com/in/akash-yadav-886141214/
 
 Always learning. Always building. Always automating.
